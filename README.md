@@ -1,5 +1,5 @@
 # kg-baseline-pytorch
-2019百度的关系抽取比赛，Pytorch版苏神的baseline，联合关系抽取
+2019百度的关系抽取比赛，Pytorch版苏神的baseline，联合关系抽取。
 
 ## 模型
 与苏神的模型相同，只不过开发框架由Keras+Tensorflow变成了Pytorch，给使用Pytorch的小伙伴分享。
