@@ -30,8 +30,11 @@
 5个epoch到达0.73，最高能到0.75。
 
 ## 环境
+
 Python 3.5+
+
 Pytorch 1.0.1
+
 tqdm
 
 
