@@ -24,6 +24,8 @@
 }
 ```
 
+CSDN上基于本代码的算法简介：https://blog.csdn.net/qq_35268841/article/details/107063066
+
 
 ## 用法
 `python trans.py`转换数据，`python main.py`跑模型并观察结果。
